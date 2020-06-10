@@ -1,0 +1,9 @@
+E:\Projects\C#\YT\017\PaymentAPI\PaymentAPI\bin\Release\PaymentAPI.dll
+E:\Projects\C#\YT\017\PaymentAPI\PaymentAPI\bin\Release\PaymentAPI.pdb
+E:\Projects\C#\YT\017\PaymentAPI\PaymentAPI\obj\Release\PaymentAPI.dll
+E:\Projects\C#\YT\017\PaymentAPI\PaymentAPI\obj\Release\PaymentAPI.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentAPI\PaymentAPI\bin\Release\PaymentAPI.dll
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentAPI\PaymentAPI\bin\Release\PaymentAPI.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentAPI\PaymentAPI\obj\Release\PaymentAPI.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentAPI\PaymentAPI\obj\Release\PaymentAPI.dll
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentAPI\PaymentAPI\obj\Release\PaymentAPI.pdb

@@ -1,0 +1,18 @@
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe.config
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.pdb
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.MainForm.resources
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.Properties.Resources.resources
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.exe
+E:\Projects\C#\YT\017\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.MainForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.Properties.Resources.resources
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.exe
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb

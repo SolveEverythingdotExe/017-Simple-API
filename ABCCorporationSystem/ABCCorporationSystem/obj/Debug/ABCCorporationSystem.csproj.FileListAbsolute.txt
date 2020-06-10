@@ -1,0 +1,24 @@
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.exe.config
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.PaymentForm.resources
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.Properties.Resources.resources
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.exe
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.pdb
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\PaymentAPI.dll
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\PaymentAPI.pdb
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.exe
+E:\Projects\C#\YT\017\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.exe
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\ABCCorporationSystem.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\PaymentAPI.dll
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\bin\Debug\PaymentAPI.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.PaymentForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.Properties.Resources.resources
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csproj.CopyComplete
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.exe
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.pdb
+D:\Projects\C#\YT\SolveEverything.exe\017 - Simple API\ABCCorporationSystem\ABCCorporationSystem\obj\Debug\ABCCorporationSystem.csprojAssemblyReference.cache
